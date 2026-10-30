@@ -6,11 +6,11 @@ This portfolio showcases independent data analytics projects using publicly avai
 
 ## Projects
 
-### Online Retail Sales Trend Analysis (Python)
+### [Online Retail Sales Trend Analysis (Python)](./Online-Retail-Sales-Trend-Analysis)
 
 Analysed 541,909 retail transactions using Python to identify monthly, daily and weekly sales trends, generating insights to support inventory planning, staffing decisions and sales forecasting.
 
-### Marketing Campaign & Product Performance Analysis (R)
+### [Marketing Campaign & Product Performance Analysis (R)](./Marketing-Campaign-Analysis-R)
 
 Analysed 2,240 customer records using R to evaluate campaign effectiveness and identify high-performing product categories, generating insights to support future marketing investment decisions.
 
