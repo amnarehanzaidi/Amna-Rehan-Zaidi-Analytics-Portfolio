@@ -14,7 +14,7 @@ Analysed customer-level marketing data to evaluate campaign effectiveness and id
 
 ## Skills
 
-Excel | Power BI | R | Python | Google Analytics | Data Visualisation | Forecasting | Statistical Analysis
+Excel | Power BI | R | Python | Google Analytics | Applied AI | Forecasting | Statistical Analysis | Market Research | Competitive Analysis
 
 ## Contact
 
