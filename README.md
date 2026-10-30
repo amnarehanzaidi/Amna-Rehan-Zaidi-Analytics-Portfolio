@@ -2,6 +2,8 @@
 
 MSc Business Analytics & Decision Sciences student at the University of Leeds with experience in data analysis, forecasting, data visualisation and business analytics.
 
+This portfolio showcases independent data analytics projects using publicly available real-world datasets to generate business insights and actionable recommendations.
+
 ## Projects
 
 ### Online Retail Sales Trend Analysis (Python)
