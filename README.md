@@ -1,6 +1,6 @@
 # Amna Rehan Zaidi | Data Analytics Portfolio
 
-MSc Business Analytics & Decision Sciences student at the University of Leeds with experience in data analysis, forecasting, data visualisation and business analytics.
+MSc Business Analytics & Decision Sciences graduate from the University of Leeds with experience in data analysis, forecasting, data visualisation and business analytics.
 
 This portfolio showcases independent data analytics projects using publicly available real-world datasets to generate business insights and actionable recommendations.
 
@@ -8,7 +8,7 @@ This portfolio showcases independent data analytics projects using publicly avai
 
 ### [Online Retail Sales Trend Analysis (Python)](./Online-Retail-Sales-Trend-Analysis)
 
-Analysed 541,909 retail transactions using Python to identify monthly, daily and weekly sales trends, generating insights to support inventory planning, staffing decisions and sales forecasting.
+Analysed 541,909 retail transactions in Python to identify monthly, daily, and weekly sales trends, generating insights to support inventory planning, staffing decisions, and sales forecasting.
 
 ### [Marketing Campaign & Product Performance Analysis (R)](./Marketing-Campaign-Analysis-R)
 
